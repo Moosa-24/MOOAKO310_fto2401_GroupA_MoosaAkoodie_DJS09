@@ -2,7 +2,6 @@ import { showReviewTotal, populateUser, showDetails, getTopTwoReviews } from './
 import { Permissions, LoyaltyUser } from './enums';
 import { Review, Property } from './interfaces';
 import MainProperty from './classes';
-import images from './images'; //not working??
 
 const propertyContainer = document.querySelector('.properties') as HTMLElement | null;
 const reviewContainer = document.querySelector('.reviews') as HTMLElement | null;
