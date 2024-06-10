@@ -1,13 +1,3 @@
 # DJS09: Couch Surfing | Typescript Practice
 
-## Challenge Overview
-
-Are you ready to get stuck into some Typescript? For this challenge, you are required to code along with the lecturer from this lesson:  Couch Surfing Website
-
-For this challenge you are required to code along with the lecturer from this lesson: Learn Typescript Tutorial
-
-The focus for this project will be to understand the concepts around a JavaScript superset like Typescript and to get a feel for how it works. You will need to submit the finished Couch Surfing Website as your DJS09 Submission. 
-
-**🚨 Note: You will need to make GitHub commits to your project after each lesson in the Scrimba walkthrough, showing that you have followed along with the lessons.**
-
-Make sure to submit your project on the LMS Project Tab [DJS09] 
+i followed through the scrimba videos rather than doing it in my own codebase because thats how i started out doing it in codespace and i don't intend to stop because it's quite handy, i tried getting it to work on vscode for 2 days on my side but i just couldn't, I am not too worried about that though because the objective was to LEARN AND PRACTICE TYPESCRIPT, which i think I've gotten a decent grasp on. It's just the installing of typescript properly and having your website then run which has given not just me but other students a problem, as well as the images not showing up??
